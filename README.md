@@ -1,5 +1,5 @@
 
-# Quantitative Momentum Strategy
+# Quantitative Momentum Strategy Financial Modeling
 
 This repository contains a Jupyter Notebook that implements a quantitative momentum strategy for trading S&P 500 stocks. The strategy identifies stocks with the highest momentum and generates trade recommendations. This approach is based on the idea that stocks that have performed well in the past will continue to perform well in the future.
 
